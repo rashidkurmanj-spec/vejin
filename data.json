@@ -1,1 +1,10 @@
-
+[
+  {
+    "title": "عنوان نمونه",
+    "author": "نویسنده",
+    "content": "<!DOCTYPE html>\n<html>\n\n<head>\n\t<meta charset=\"utf-8\" />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\t<title>vejin.net</title>\n\t<meta name=\"keywords\"\n\t\tcontent=\"veijn,vej",
+    "type": "poetry",
+    "year": 1950,
+    "slug": "sample-title"
+  }
+]
